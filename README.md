@@ -1,7 +1,7 @@
 Instrucciones
 Prueba 1
 1. Crea una aplicación con Quasar frawework (https://quasar.dev/quasar-cli-webpack/developing-cordova-apps/preparation).
-2. Usa Axios para integrar la API de (https://dummyapi.io/)
+2. Usa Axios para integrar la API de (https://dummyjson.com/)
 3. Aprovecha los componentes de quasar para construir un layout agradable.
 4. Debe ser modular, usa el store de Pinia para esto. (una sola vista)
 
